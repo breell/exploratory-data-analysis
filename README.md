@@ -12,3 +12,6 @@ Predict behavior to retain customers. You can analyze all relevant customer data
 ## Tools Used
 - **Python**
 - **Visual Studio Code**
+
+dataset source
+https://www.kaggle.com/blastchar/telco-customer-churn
